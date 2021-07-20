@@ -1,0 +1,18 @@
+[
+  {
+    "package": "accrualPlot"
+  },
+  {
+    "package": "btabler"
+  },
+  {
+    "package": "CTUtemplate"
+  },
+  {
+    "package": "kpitools"
+  },
+  {
+    "package": "presize",
+    "oncran": true
+  }
+]

@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ctu-bern/universe
 	shallow = true
 	branch = HEAD
+[submodule "accrualPlot"]
+	path = accrualPlot
+	url = https://github.com/CTU-Bern/accrualPlot
+	shallow = true
+	registered = true
+[submodule "btabler"]
+	path = btabler
+	url = https://github.com/CTU-Bern/btabler
+	shallow = true
+	registered = true
+[submodule "CTUtemplate"]
+	path = CTUtemplate
+	url = https://github.com/CTU-Bern/CTUtemplate
+	shallow = true
+	registered = true
+[submodule "kpitools"]
+	path = kpitools
+	url = github.com/CTU-Bern/kpitools
+	shallow = true
+	registered = true
+[submodule "presize"]
+	path = presize
+	url = https://github.com/CTU-Bern/presize
+	shallow = true
+	registered = true
