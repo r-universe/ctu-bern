@@ -14,5 +14,9 @@
   {
     "package": "presize",
     "oncran": true
+  },
+  {
+    "package": "secuTrialR",
+    "oncran": true
   }
 ]

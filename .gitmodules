@@ -20,11 +20,16 @@
 	registered = true
 [submodule "kpitools"]
 	path = kpitools
-	url = github.com/CTU-Bern/kpitools
+	url = https://github.com/CTU-Bern/kpitools
 	shallow = true
 	registered = true
 [submodule "presize"]
 	path = presize
 	url = https://github.com/CTU-Bern/presize
+	shallow = true
+	registered = true
+[submodule "secuTrialR"]
+	path = secuTrialR
+	url = https://github.com/SwissClinicalTrialOrganisation/secuTrialR
 	shallow = true
 	registered = true
