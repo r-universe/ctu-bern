@@ -28,8 +28,18 @@
 	url = https://github.com/CTU-Bern/presize
 	shallow = true
 	registered = true
+[submodule "SwissASR"]
+	path = SwissASR
+	url = https://github.com/CTU-Bern/SwissASR
+	shallow = true
+	registered = true
 [submodule "secuTrialR"]
 	path = secuTrialR
 	url = https://github.com/SwissClinicalTrialOrganisation/secuTrialR
+	shallow = true
+	registered = true
+[submodule "HSAr"]
+	path = HSAr
+	url = https://github.com/aghaynes/HSAr
 	shallow = true
 	registered = true

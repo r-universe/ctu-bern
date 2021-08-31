@@ -16,7 +16,13 @@
     "oncran": true
   },
   {
+    "package": "SwissASR"
+  },
+  {
     "package": "secuTrialR",
     "oncran": true
+  },
+  {
+    "package": "HSAr"
   }
 ]
