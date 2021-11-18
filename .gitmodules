@@ -43,3 +43,8 @@
 	url = https://github.com/aghaynes/HSAr
 	shallow = true
 	registered = true
+[submodule "sse"]
+	path = sse
+	url = https://github.com/thofab/sse
+	shallow = true
+	registered = true

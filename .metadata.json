@@ -24,5 +24,9 @@
   },
   {
     "package": "HSAr"
+  },
+  {
+    "package": "sse",
+    "oncran": false
   }
 ]
