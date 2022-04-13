@@ -48,3 +48,8 @@
 	url = https://github.com/thofab/sse
 	shallow = true
 	registered = true
+[submodule "svn"]
+	path = svn
+	url = https://github.com/CTU-Bern/svn
+	shallow = true
+	registered = true
