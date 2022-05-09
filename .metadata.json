@@ -1,6 +1,7 @@
 [
   {
-    "package": "accrualPlot"
+    "package": "accrualPlot",
+    "oncran": false
   },
   {
     "package": "btabler"
