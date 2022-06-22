@@ -32,5 +32,8 @@
   },
   {
     "package": "svn"
+  },
+  {
+    "package": "unibeCols"
   }
 ]
