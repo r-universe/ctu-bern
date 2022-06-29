@@ -58,3 +58,8 @@
 	url = https://github.com/CTU-Bern/unibeCols
 	shallow = true
 	registered = true
+[submodule "redcaptools"]
+	path = redcaptools
+	url = https://github.com/CTU-Bern/redcaptools
+	shallow = true
+	registered = true

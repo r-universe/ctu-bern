@@ -35,5 +35,8 @@
   },
   {
     "package": "unibeCols"
+  },
+  {
+    "package": "redcaptools"
   }
 ]
