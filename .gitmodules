@@ -2,30 +2,33 @@
 	path = .registry
 	url = https://github.com/ctu-bern/universe
 	branch = HEAD
+[submodule "CTUtemplate"]
+	path = CTUtemplate
+	url = https://github.com/CTU-Bern/CTUtemplate
+[submodule "HSAr"]
+	path = HSAr
+	url = https://github.com/aghaynes/HSAr
+[submodule "SwissASR"]
+	path = SwissASR
+	url = https://github.com/CTU-Bern/SwissASR
 [submodule "accrualPlot"]
 	path = accrualPlot
 	url = https://github.com/CTU-Bern/accrualPlot
 [submodule "btabler"]
 	path = btabler
 	url = https://github.com/CTU-Bern/btabler
-[submodule "CTUtemplate"]
-	path = CTUtemplate
-	url = https://github.com/CTU-Bern/CTUtemplate
 [submodule "kpitools"]
 	path = kpitools
 	url = https://github.com/CTU-Bern/kpitools
 [submodule "presize"]
 	path = presize
 	url = https://github.com/CTU-Bern/presize
-[submodule "SwissASR"]
-	path = SwissASR
-	url = https://github.com/CTU-Bern/SwissASR
+[submodule "redcaptools"]
+	path = redcaptools
+	url = https://github.com/CTU-Bern/redcaptools
 [submodule "secuTrialR"]
 	path = secuTrialR
 	url = https://github.com/SwissClinicalTrialOrganisation/secuTrialR
-[submodule "HSAr"]
-	path = HSAr
-	url = https://github.com/aghaynes/HSAr
 [submodule "sse"]
 	path = sse
 	url = https://github.com/thofab/sse
@@ -35,6 +38,3 @@
 [submodule "unibeCols"]
 	path = unibeCols
 	url = https://github.com/CTU-Bern/unibeCols
-[submodule "redcaptools"]
-	path = redcaptools
-	url = https://github.com/CTU-Bern/redcaptools
