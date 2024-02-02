@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ctu-bern/universe
+	url = https://github.com/ctu-bern/ctu-bern.r-universe.dev
 	branch = HEAD
 [submodule "CTUtemplate"]
 	path = CTUtemplate
