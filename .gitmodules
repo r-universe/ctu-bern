@@ -38,3 +38,6 @@
 [submodule "unibeCols"]
 	path = unibeCols
 	url = https://github.com/CTU-Bern/unibeCols
+[submodule "validation"]
+	path = validation
+	url = https://github.com/SwissClinicalTrialOrganisation/validation
