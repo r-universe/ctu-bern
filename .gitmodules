@@ -5,9 +5,6 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/CTU-Bern/CTUtemplate
-[submodule "HSAr"]
-	path = HSAr
-	url = https://github.com/aghaynes/HSAr
 [submodule "SwissASR"]
 	path = SwissASR
 	url = https://github.com/CTU-Bern/SwissASR
