@@ -7,7 +7,7 @@
 	url = https://github.com/CTU-Bern/CTUtemplate
 [submodule "SCTORvalidation"]
 	path = SCTORvalidation
-	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvaliation_Rpackage
+	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvalidation_Rpackage
 [submodule "SwissASR"]
 	path = SwissASR
 	url = https://github.com/CTU-Bern/SwissASR
