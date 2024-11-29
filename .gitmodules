@@ -5,6 +5,9 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/CTU-Bern/CTUtemplate
+[submodule "SCTORvalidation"]
+	path = SCTORvalidation
+	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvaliation_Rpackage
 [submodule "SwissASR"]
 	path = SwissASR
 	url = https://github.com/CTU-Bern/SwissASR
@@ -35,6 +38,3 @@
 [submodule "unibeCols"]
 	path = unibeCols
 	url = https://github.com/CTU-Bern/unibeCols
-[submodule "validation"]
-	path = validation
-	url = https://github.com/SwissClinicalTrialOrganisation/validation
