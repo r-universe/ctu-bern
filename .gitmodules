@@ -20,9 +20,15 @@
 [submodule "kpitools"]
 	path = kpitools
 	url = https://github.com/CTU-Bern/kpitools
+[submodule "powergrid"]
+	path = powergrid
+	url = https://github.com/SwissClinicalTrialOrganisation/powergrid
 [submodule "presize"]
 	path = presize
 	url = https://github.com/CTU-Bern/presize
+[submodule "randolist"]
+	path = randolist
+	url = https://github.com/CTU-Bern/randolist
 [submodule "redcaptools"]
 	path = redcaptools
 	url = https://github.com/CTU-Bern/redcaptools
