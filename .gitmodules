@@ -26,9 +26,9 @@
 [submodule "presize"]
 	path = presize
 	url = https://github.com/CTU-Bern/presize
-[submodule "randolist"]
-	path = randolist
-	url = https://github.com/CTU-Bern/randolist
+[submodule "randotools"]
+	path = randotools
+	url = https://github.com/CTU-Bern/randotools
 [submodule "redcaptools"]
 	path = redcaptools
 	url = https://github.com/CTU-Bern/redcaptools
