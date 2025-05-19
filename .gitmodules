@@ -17,6 +17,9 @@
 [submodule "btabler"]
 	path = btabler
 	url = https://github.com/CTU-Bern/btabler
+[submodule "forplot"]
+	path = forplot
+	url = https://github.com/CTU-Bern/forplot
 [submodule "kpitools"]
 	path = kpitools
 	url = https://github.com/CTU-Bern/kpitools
