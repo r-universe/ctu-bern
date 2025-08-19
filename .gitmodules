@@ -20,6 +20,9 @@
 [submodule "forplot"]
 	path = forplot
 	url = https://github.com/CTU-Bern/forplot
+[submodule "harmBounds"]
+	path = harmBounds
+	url = https://github.com/CTU-Bern/harmBounds
 [submodule "kpitools"]
 	path = kpitools
 	url = https://github.com/CTU-Bern/kpitools
