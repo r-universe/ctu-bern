@@ -44,6 +44,9 @@
 [submodule "sse"]
 	path = sse
 	url = https://github.com/thofab/sse
+[submodule "survSAKK"]
+	path = survSAKK
+	url = https://github.com/SAKK-Statistics/survSAKK
 [submodule "svn"]
 	path = svn
 	url = https://github.com/CTU-Bern/svn
