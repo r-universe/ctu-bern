@@ -5,6 +5,9 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/CTU-Bern/CTUtemplate
+[submodule "CondPower"]
+	path = CondPower
+	url = https://github.com/CTU-Bern/CondPower
 [submodule "SCTORvalidation"]
 	path = SCTORvalidation
 	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvalidation_Rpackage
